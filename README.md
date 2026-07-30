@@ -27,3 +27,4 @@ MySQL • Prisma • Docker • Linux • Git
 📧 roi.bublil2000@gmail.com
 
 💼 LinkedIn
+https://www.linkedin.com/in/roi-bublil-9818b2366/
