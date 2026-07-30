@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Roi 👋
 
-<!--
-**ROIBUB/ROIBUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software & Information Systems Engineering student at Ben-Gurion University.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java • Python • C • C++ • JavaScript • SQL
+
+React • Node.js • Express • Flask
+
+MySQL • Prisma • Docker • Linux • Git
+
+## 🚀 Featured Projects
+
+🏋️ FitWise – AI-powered fitness platform
+
+🔍 Information Retrieval Engine
+
+🚚 Logistics Management System
+
+🧩 Maze Solver
+
+🃏 Blackjack Network Game
+
+## 📫 Contact
+
+📧 roi.bublil2000@gmail.com
+
+💼 LinkedIn
